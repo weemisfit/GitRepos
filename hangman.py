@@ -1,5 +1,9 @@
 #comment for testing git hub and git
 
+## it's friday and I need this to work
+
+#practise git , git bash and github together
+
 import random
 
 # List of words for the game
